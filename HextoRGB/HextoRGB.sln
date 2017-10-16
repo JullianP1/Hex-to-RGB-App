@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HextoRGB", "HextoRGB\HextoRGB.csproj", "{B151D725-D531-463C-AB3B-AB50EF11D0AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Release|iPhone.ActiveCfg = Release|iPhone
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Release|iPhone.Build.0 = Release|iPhone
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{B151D725-D531-463C-AB3B-AB50EF11D0AC}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
