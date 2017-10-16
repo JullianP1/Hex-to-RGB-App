@@ -33,6 +33,8 @@ namespace HextoRGB
             redLabel.Text = redValue.ToString();
             greenLabel.Text = greenValue.ToString();
             blueLabel.Text = blueValue.ToString();
+
+            colorView.BackgroundColor = UIColor.from
         }
 
         public override void DidReceiveMemoryWarning()
