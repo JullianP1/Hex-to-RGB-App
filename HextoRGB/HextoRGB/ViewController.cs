@@ -21,11 +21,13 @@ namespace HextoRGB
 
         void ConvertButton_TouchUpInside (object sender, EventArgs e)
         {
+            //turns hex value and individual RGB values into strings
             string hexValue = hexValueTextField.Text;
             string redHexValue = hexValue.Substring(0, 2);
             string greenHexValue = hexValue.Substring(2, 2);
             string blueHexValue = hexValue.Substring(4, 2);
 
+            //
             int redValue = int.Parse(redHexValue, System.Globalization.NumberStyles.HexNumber);
             int greenValue = int.Parse(greenHexValue, System.Globalization.NumberStyles.HexNumber);
             int blueValue = int.Parse(blueHexValue, System.Globalization.NumberStyles.HexNumber);
@@ -34,7 +36,7 @@ namespace HextoRGB
             greenLabel.Text = greenValue.ToString();
             blueLabel.Text = blueValue.ToString();
 
-            colorView.BackgroundColor = UIColor.from
+            colorView.BackgroundColor = UIColor.FromRGB(redValue, greenValue, blueLabel);
         }
 
         public override void DidReceiveMemoryWarning()
