@@ -15,6 +15,18 @@ namespace HextoRGB
         {
             base.ViewDidLoad();
             // Perform any additional setup after loading the view, typically from a nib.
+
+            convertButton.TouchUpInside += ConvertButton_TouchUpInside;
+        }
+
+        void ConvertButton_TouchUpInside (object sender, EventArgs e)
+        {
+            string hexValue = hexValueTextField.Text;
+            string redHexValue = hexValue.Substring(0, 2);
+            string greenHexValue = hexValue.Substring(2, 2);
+            string blueHexValue = hexValue.Substring(4, 2);
+
+            int redValue = int.Parse(redHexValue, System.Globalization.NumberStyles.HexNumber);
         }
 
         public override void DidReceiveMemoryWarning()
