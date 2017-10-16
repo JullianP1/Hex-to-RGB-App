@@ -3,3 +3,7 @@
 /Users/jullianp1/Desktop/repos/Hex-to-RGB/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/actool/_BundleResourceWithLogicalName.items
 /Users/jullianp1/Desktop/repos/Hex-to-RGB/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/device-builds/iphone9.1-10.3.1/optimized/
 /Users/jullianp1/Desktop/repos/Hex-to-RGB/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.csproj.CoreCompileInputs.cache
+/Users/jullianp1/Desktop/repos/Hex-to-RGB/HextoRGB/HextoRGB/bin/iPhoneSimulator/Debug/HextoRGB.exe
+/Users/jullianp1/Desktop/repos/Hex-to-RGB/HextoRGB/HextoRGB/bin/iPhoneSimulator/Debug/HextoRGB.pdb
+/Users/jullianp1/Desktop/repos/Hex-to-RGB/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.exe
+/Users/jullianp1/Desktop/repos/Hex-to-RGB/HextoRGB/HextoRGB/obj/iPhoneSimulator/Debug/HextoRGB.pdb
