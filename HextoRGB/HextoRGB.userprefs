@@ -2,11 +2,11 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="HextoRGB/Main.storyboard">
     <Files>
       <File FileName="HextoRGB/Main.storyboard" />
-      <File FileName="HextoRGB/ViewController.cs" Line="16" Column="32" />
+      <File FileName="HextoRGB/ViewController.cs" Line="30" Column="54" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.ItemProperties.HextoRGB PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A558C771-A525-408C-B4C2-5F0A43839628">
+  <MonoDevelop.Ide.ItemProperties.HextoRGB PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CD357181-17EF-4221-820D-5407E878FFE0">
     <MonoDevelop.MacDev.AppleDevelopmentTeam />
   </MonoDevelop.Ide.ItemProperties.HextoRGB>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
