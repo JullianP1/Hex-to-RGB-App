@@ -27,7 +27,7 @@ namespace HextoRGB
             string greenHexValue = hexValue.Substring(2, 2);
             string blueHexValue = hexValue.Substring(4, 2);
 
-            //changes strings into integers
+            //changes values of strings into integers
             int redValue = int.Parse(redHexValue, System.Globalization.NumberStyles.HexNumber);
             int greenValue = int.Parse(greenHexValue, System.Globalization.NumberStyles.HexNumber);
             int blueValue = int.Parse(blueHexValue, System.Globalization.NumberStyles.HexNumber);
