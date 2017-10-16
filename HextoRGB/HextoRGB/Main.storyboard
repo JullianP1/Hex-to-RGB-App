@@ -29,6 +29,7 @@
                                         <include reference="390"/>
                                         <include reference="389"/>
                                         <include reference="193"/>
+                                        <include reference="2465"/>
                                     </mask>
                                 </variation>
                                 <subviews>
@@ -67,6 +68,12 @@
                                         <nil key="textColor"/>
                                         <nil key="highlightedColor"/>
                                     </label>
+                                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Hex to RGB" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" id="2465" translatesAutoresizingMaskIntoConstraints="NO">
+                                        <rect key="frame" x="78" y="39" width="258" height="45"/>
+                                        <fontDescription key="fontDescription" type="system" pointSize="45"/>
+                                        <nil key="textColor"/>
+                                        <nil key="highlightedColor"/>
+                                    </label>
                                 </subviews>
                                 <variation key="default">
                                     <mask key="subviews">
@@ -76,6 +83,7 @@
                                         <exclude reference="390"/>
                                         <exclude reference="389"/>
                                         <exclude reference="193"/>
+                                        <exclude reference="2465"/>
                                     </mask>
                                 </variation>
                             </view>
