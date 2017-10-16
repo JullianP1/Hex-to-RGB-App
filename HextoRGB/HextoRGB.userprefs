@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{B151D725-D531-463C-AB3B-AB50EF11D0AC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HextoRGB/ViewController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HextoRGB/Main.storyboard">
     <Files>
       <File FileName="HextoRGB/Main.storyboard" />
-      <File FileName="HextoRGB/ViewController.cs" Line="1" Column="1" />
+      <File FileName="HextoRGB/ViewController.cs" Line="16" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
